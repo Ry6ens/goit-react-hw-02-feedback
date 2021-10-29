@@ -8,3 +8,8 @@ p {
 .items {
   display: flex;
 }
+
+.notification {
+  margin-top: 10px;
+  color: red;
+}
